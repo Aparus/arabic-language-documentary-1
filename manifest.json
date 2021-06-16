@@ -2,15 +2,15 @@
   "background_color": "#ffffff",
   "display": "standalone",
   "lang": "en",
-  "name": "ulla",
-  "short_name": "ulla",
+  "name": "arabic-1",
+  "short_name": "arabic-1",
   "start_url": "/?utm_source=web_app_manifest",
   "orientation": "portrait",
   "related_applications": [
     {
       "platform": "play",
-      "url": "http://play.google.com/store/apps/details?id=com.aparus.ulla",
-      "id": "com.aparus.ulla"
+      "url": "http://play.google.com/store/apps/details?id=com.aparus.arabic1",
+      "id": "com.aparus.arabic1"
     }
   ],
   "prefer_related_applications": true,
